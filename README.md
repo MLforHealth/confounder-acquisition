@@ -14,8 +14,9 @@ This script implements confounding feature acquisition strategies using differen
 This script is called by simulate_al_ihdp.py to implement CMGP model. We used the implementation of CMGP at [Repo](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/c9a65d2c44fa73c9266cbe8ddcc69b16ff424a73/alg/causal_multitask_gaussian_processes_ite/).
 
 # Paper
-If you use this code in your research, please cite the following publication:
+If you use this code in your research, please cite the following [paper](https://arxiv.org/abs/2011.08753):
 ```
+Wang, S., Yi, S.E., Joshi, S., & Ghassemi, M. (2020). Confounding Feature Acquisition for Causal Effect Estimation. arXiv:2011.08753.
 ```
 # References
 Alaa, Ahmed M., and Mihaela van der Schaar. [Bayesian inference of individualized treatment effects using multi-task gaussian processes](http://papers.nips.cc/paper/6934-bayesian-inference-of-individualized-treatment-effects-using-multi-task-gaussian-processes) Advances in Neural Information Processing Systems. 2017.
